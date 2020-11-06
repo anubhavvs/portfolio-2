@@ -1,0 +1,30 @@
+[
+  {
+    "key": 1,
+    "name": "Covid Store",
+    "image": "/image/projects/covid-store.png",
+    "description": "An E-commerce Website using React and Firebase.",
+    "link": "https://covid-store.netlify.app/"
+  },
+  {
+    "key": 2,
+    "name": "Netflix Clone",
+    "image": "/image/projects/netflix.png",
+    "description": "Clone of Netflix Frontend using React and Firebase.",
+    "link": "https://anubhavvs-netflix.netlify.app/"
+  },  
+  {
+    "key": 3,
+    "name": "TechHub App",
+    "image": "/image/projects/techhubapp.png",
+    "description": "A MERN Stack E-Commerce Website.",
+    "link": "https://techhubapp.herokuapp.com/"
+  },
+  {
+    "key": 4,
+    "name": "Lights Out Game",
+    "image": "/image/projects/lights-out.png",
+    "description": "A clone of Lights Out Game using React.",
+    "link": "https://anubhavvs-lights-out.netlify.app/"
+  }
+]

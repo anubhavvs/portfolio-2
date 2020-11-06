@@ -1,0 +1,25 @@
+backend:
+  name: git-gateway
+  repo: portfolio-2
+  branch: master
+
+publish_mode: editorial_workflow
+
+media_folder: 'public/image'
+public_folder: '/image'
+
+collections:
+  - name: 'posts'
+    label: 'Blog Posts'
+    folder: 'posts'
+    create: true
+    slug: '{{title}}'
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'blog' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Featured Image', name: 'thumbnail', widget: 'image' }
+      - { label: 'Featured Image Credit', name: 'credit', widget: 'markdown' }
+      - { label: 'Tags', name: 'tags', widget: 'string' }
+      - { label: 'Slug', name: 'slug', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
