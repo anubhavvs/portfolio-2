@@ -2,28 +2,28 @@
   {
     "key": 1,
     "name": "Covid Store",
-    "image": "/image/projects/covid-store.png",
+    "image": "https://live.staticflickr.com/65535/50575257468_46832f4c98_b.jpg",
     "description": "An E-commerce Website using React and Firebase.",
     "link": "https://covid-store.netlify.app/"
   },
   {
     "key": 2,
     "name": "Netflix Clone",
-    "image": "/image/projects/netflix.png",
+    "image": "https://live.staticflickr.com/65535/50575988656_6f1ca55328_b.jpg",
     "description": "Clone of Netflix Frontend using React and Firebase.",
     "link": "https://anubhavvs-netflix.netlify.app/"
   },  
   {
     "key": 3,
     "name": "TechHub App",
-    "image": "/image/projects/techhubapp.png",
+    "image": "https://live.staticflickr.com/65535/50576128237_df398cc55b_b.jpg",
     "description": "A MERN Stack E-Commerce Website.",
     "link": "https://techhubapp.herokuapp.com/"
   },
   {
     "key": 4,
     "name": "Lights Out Game",
-    "image": "/image/projects/lights-out.png",
+    "image": "https://live.staticflickr.com/65535/50575988671_71450ab0d0_b.jpg",
     "description": "A clone of Lights Out Game using React.",
     "link": "https://anubhavvs-lights-out.netlify.app/"
   }
