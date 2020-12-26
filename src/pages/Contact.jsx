@@ -27,7 +27,7 @@ const Intro = ({ style, mouseEnter, mouseLeave }) => {
         <div className={styles.image}>
           <figure>
             <img
-              src='https://scontent.fccu10-1.fna.fbcdn.net/v/t31.0-8/26170599_1532260496881433_2946471806043992877_o.jpg?_nc_cat=110&ccb=2&_nc_sid=174925&_nc_ohc=2WqYS0vtAroAX_DKSgW&_nc_ht=scontent.fccu10-1.fna&oh=f810846c510ff89989dd9e401a76a402&oe=5FC969DD'
+              src='./picture/me.jpg'
               alt='anubhav saha'
             />
           </figure>
