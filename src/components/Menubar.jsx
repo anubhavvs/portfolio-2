@@ -64,7 +64,7 @@ const Menubar = ({ open, toggleMenubar, mouseEnter, mouseLeave }) => {
         <li>
           <a
             className={styles.menubar_link}
-            href='https://www.linkedin.com/in/anubhavvs/'
+            href='https://docs.google.com/document/d/1DPvYG1WLFJJ6vjNcX-7CVq1G85CfYOEoCBNVjOlFC0U/edit?usp=sharing'
             onMouseEnter={mouseEnter}
             onMouseLeave={mouseLeave}
             target='_blank'
