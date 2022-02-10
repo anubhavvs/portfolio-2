@@ -12,7 +12,15 @@
     "image": "https://live.staticflickr.com/65535/50575988656_6f1ca55328_b.jpg",
     "description": "Clone of Netflix Frontend using React and Firebase.",
     "link": "https://anubhavvs-netflix.netlify.app/"
-  },  
+  },
+
+  {
+    "key": 5,
+    "name": "Tellygram",
+    "image": "https://live.staticflickr.com/65535/51394034910_a0bea13b2d_o.png",
+    "description": "A Chat App using PARN Stack(PostgreSQL, Apollo and React).",
+    "link": "https://tellygram.anubhavvs.me/"
+  },
   {
     "key": 3,
     "name": "TechHub App",
@@ -26,12 +34,5 @@
     "image": "https://live.staticflickr.com/65535/50575988671_71450ab0d0_b.jpg",
     "description": "A clone of Lights Out Game using React.",
     "link": "https://anubhavvs-lights-out.netlify.app/"
-  },
-  {
-    "key": 5,
-    "name": "Tellygram",
-    "image": "https://live.staticflickr.com/65535/51394034910_a0bea13b2d_o.png",
-    "description": "A Chat App using PARN Stack(PostgreSQL, Apollo and React).",
-    "link": "https://tellygram.anubhavvs.me/"
   }
 ]
