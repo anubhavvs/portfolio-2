@@ -30,8 +30,7 @@ const Intro = ({ style, mouseEnter, mouseLeave }) => {
         <p className={styles.desc}>
           Hello! I'm Anubhav Saha, a Frontend Developer for Web and
           Mobile. I love creating beautiful and intuitive
-          interfaces for users. I am pursuing Bachelor's of Computer Application
-          from Institute of Engineering & Management, Kolkata.
+          interfaces for users. I am pursuing Master of Science in Web Engineering from Technische Universität Chemnitz, Germany.
           Apart from Web Technologies I have explored Machine Learning and Data Science.
           Other than these I love to play video games.
         </p>
