@@ -19,14 +19,14 @@
     "name": "Tellygram",
     "image": "https://live.staticflickr.com/65535/51394034910_a0bea13b2d_o.png",
     "description": "A Chat App using PARN Stack(PostgreSQL, Apollo and React).",
-    "link": "https://tellygram.anubhavvs.me/"
+    "link": "https://tellygram.netlify.app/"
   },
   {
     "key": 3,
     "name": "TechHub App",
     "image": "https://live.staticflickr.com/65535/50576128237_df398cc55b_b.jpg",
     "description": "A MERN Stack E-Commerce Website.",
-    "link": "https://techhubapp.herokuapp.com/"
+    "link": "https://techhub-mkj3.onrender.com"
   },
   {
     "key": 4,
