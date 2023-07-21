@@ -41,5 +41,12 @@
     "image": "https://live.staticflickr.com/65535/53030147928_1e4fe8f2aa_o.png",
     "description": "Querying Knowledge Graphs via Comunica.",
     "link": "https://github.com/anubhavvs/comunica-demo"
+  },
+  {
+    "key": 6,
+    "name": "PV Output Estimator",
+    "image": "https://live.staticflickr.com/65535/53062370225_538ca56f0a_o.png",
+    "description": "A system to evalute daily PV output for a location.",
+    "link": "https://pvsolar.netlify.app/"
   }
 ]
