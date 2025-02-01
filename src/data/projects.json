@@ -11,7 +11,7 @@
     "name": "Netflix Clone",
     "image": "https://live.staticflickr.com/65535/50575988656_6f1ca55328_b.jpg",
     "description": "Clone of Netflix Frontend using React and Firebase.",
-    "link": "https://anubhavvs-netflix.netlify.app/"
+    "link": "https://netflix.anubhavvs.de/"
   },
 
   {
@@ -19,14 +19,14 @@
     "name": "Tellygram",
     "image": "https://live.staticflickr.com/65535/51394034910_a0bea13b2d_o.png",
     "description": "A Chat App using PARN Stack(PostgreSQL, Apollo and React).",
-    "link": "https://tellygram.netlify.app/"
+    "link": "https://tellygram.anubhavvs.de/"
   },
   {
     "key": 4,
     "name": "TechHub App",
     "image": "https://live.staticflickr.com/65535/50576128237_df398cc55b_b.jpg",
     "description": "A MERN Stack E-Commerce Website.",
-    "link": "https://techhub-mkj3.onrender.com"
+    "link": "https://techhub.anubhavvs.de"
   },
   {
     "key": 5,
