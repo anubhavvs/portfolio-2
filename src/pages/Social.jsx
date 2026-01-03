@@ -1,5 +1,5 @@
 import React from 'react';
-import { Twitter, Linkedin, GitHub } from 'react-feather';
+import { Linkedin, GitHub } from 'react-feather';
 
 import styles from './Social.module.css';
 
