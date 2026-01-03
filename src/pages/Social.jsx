@@ -9,16 +9,6 @@ const Social = ({ mouseEnter, mouseLeave }) => {
       <a
         onMouseEnter={mouseEnter}
         onMouseLeave={mouseLeave}
-        href='http://twitter.com/anubhavvs'
-        target='_blank'
-        rel='noopener noreferrer'
-        aria-label='Twitter profile link'
-      >
-        <Twitter />
-      </a>
-      <a
-        onMouseEnter={mouseEnter}
-        onMouseLeave={mouseLeave}
         href='https://github.com/anubhavvs'
         target='_blank'
         rel='noopener noreferrer'
