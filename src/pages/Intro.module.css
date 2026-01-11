@@ -23,7 +23,7 @@ img {
   flex: 1;
   flex-direction: column;
   justify-content: space-around;
-  max-width: 520px;
+  max-width: 600px;
 }
 
 .skills {
@@ -79,7 +79,7 @@ img {
 @media screen and (min-width: 801px) {
   .intro {
     flex-direction: row;
-    margin-top: 13rem;
+    margin-top: 6.5rem;
   }
 
   .about {
