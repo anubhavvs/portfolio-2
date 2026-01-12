@@ -61,18 +61,6 @@ const Menubar = ({ open, toggleMenubar, mouseEnter, mouseLeave }) => {
             Contact
           </a>
         </li>
-        <li>
-          <a
-            className={styles.menubar_link}
-            href='https://docs.google.com/document/d/1DPvYG1WLFJJ6vjNcX-7CVq1G85CfYOEoCBNVjOlFC0U/edit?usp=sharing'
-            onMouseEnter={mouseEnter}
-            onMouseLeave={mouseLeave}
-            target='_blank'
-            rel='noopener noreferrer'
-          >
-            Résumé
-          </a>
-        </li>
       </ul>
     </animated.div>
   );
