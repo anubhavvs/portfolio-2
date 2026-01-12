@@ -2,7 +2,6 @@ import React, { useEffect, useRef } from 'react';
 import { Redirect, Link, useParams } from 'react-router-dom';
 import { animated } from 'react-spring/renderprops';
 import Markdown from 'react-markdown';
-import { Twitter } from 'react-feather';
 import hljs from 'highlight.js/lib/core';
 import javascript from 'highlight.js/lib/languages/javascript';
 import css from 'highlight.js/lib/languages/css';
@@ -53,8 +52,6 @@ const Post = ({ style, mouseEnter, mouseLeave, ...props }) => {
     return <Redirect to='/404' />;
   }
 
-  const share = `https://twitter.com/share?url=${window.location.href}&text=I just read ${fetchedPost.title} and I think you should too.`;
-
   return (
     <animated.div style={style} className={styles.post_wrapper}>
       <div className={styles.post}>
@@ -81,18 +78,6 @@ const Post = ({ style, mouseEnter, mouseLeave, ...props }) => {
         </figcaption>
         <div ref={codeRef} className={styles.post_content}>
           <Markdown source={fetchedPost.content} escapeHtml={false} />
-        </div>
-        <div className={styles.share_post}>
-          <a
-            onMouseEnter={mouseEnter}
-            onMouseLeave={mouseLeave}
-            className={styles.share_post_text}
-            target='_blank'
-            rel='noopener noreferrer'
-            href={share}
-          >
-            Share on Twitter. <Twitter />
-          </a>
         </div>
         {currentIndex !== postlist.length - 1 && (
           <div className={styles.next_post}>
