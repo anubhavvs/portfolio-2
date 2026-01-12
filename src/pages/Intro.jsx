@@ -23,15 +23,15 @@ const Intro = ({ style, mouseEnter, mouseLeave }) => {
       </div>
       <div className={styles.about}>
         <p className={styles.skills}>
-          react, node, express, mongodb, firebase, python, flutter
+          react, node, express, redux, react native, typescript, python
         </p>
         <p className={styles.specialization}>Mobile and Web</p>
-        <h2 className={styles.title}>Frontend Developer</h2>
+        <h2 className={styles.title}>Software Engineer</h2>
         <p className={styles.desc}>
           Hello! I'm Anubhav Saha, a Frontend Developer for Web and
           Mobile. I love creating beautiful and intuitive
-          interfaces for users. I have recently completed my Master of Science degree 
-          in Web Engineering from Technische Universität Chemnitz, Germany and I am currently 
+          interfaces for users. I have recently completed my Master of Science degree
+          in Web Engineering from Technische Universität Chemnitz, Germany and I am currently
           working as an Associate Software Engineer at Bridgestone.
           Apart from Web Technologies I have explored Machine Learning and Data Science.
           Other than these I love to play video games.
